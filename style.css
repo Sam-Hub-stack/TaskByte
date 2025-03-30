@@ -1,0 +1,46 @@
+.body{
+    background-color: grey;
+}
+.todo{
+margin-left: 77vh;
+font-weight: bold;
+font-size: 40px;
+}
+#container{
+    margin-left:25%;
+    margin-right:25%;
+    background:black;
+    justify-content: center;
+    align-content: center;
+    height:450px;
+    width:450px;
+}
+.box{
+    padding:4%;
+    background:grey;
+    height: 250px;
+    width:180px;
+    display: grid;
+    margin-left:27%;
+    margin-top: 40px;
+    margin-right: 55%;
+    margin-bottom: 45%;
+    
+}
+#inputs{
+    border: solid;
+    border-radius: 8px;
+    width: auto;
+    height:32px;
+}
+#buttons{
+    background:black;
+    color:beige;
+    width:40%;
+    height:32px;
+    align-items: center;
+    margin-left:30%;
+}
+#buttons:hover{
+    background:rgb(19, 126, 171);
+}
